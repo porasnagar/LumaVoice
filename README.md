@@ -360,7 +360,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 <div align="center">
 
-**Built with ❤️ by Poras Nagar and Arjun **
+Built with ❤️ by Poras Nagar and Arjun Phogat
 
 [Report Bug](https://github.com/porasnagar/lumavoice/issues) • [Request Feature](https://github.com/porasnagar/lumavoice/issues) • [Documentation](https://github.com/porasnagar/lumavoice/wiki)
 
